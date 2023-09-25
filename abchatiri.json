@@ -9,7 +9,7 @@
       "admob_banner_unit_id": "ca-app-pub-1234819124237609/4144068994",
       "admob_interstitial_unit_id": "ca-app-pub-1234819124237609/1379687741",
       "admob_native_unit_id": "ca-app-pub-1234819124237609/5318669423",
-      "admob_app_open_unit_id": "ca-app-pub-1234819124237609/7753524409",
+      "admob_app_open_unit_id": "ca-app-pub-1234819124237609/7753524409"
       "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "fan_native_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -24,9 +24,9 @@
     {
       "ad_time": "10000",
       "ad_time_rate": "80",
-      "quran_link":"https://server11.mp3quran.net/shatri/" ,
+      "quran_link":"https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/" ,
       "facebook":"https://m.facebook.com/QoranFull" ,
       "twitter":"https://mobile.twitter.com/FreeQuranMp3" ,
       "insagram":"https://www.instagram.com/lestenquran"
 
-    }]}
+       }]}
